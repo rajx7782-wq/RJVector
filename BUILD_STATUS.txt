@@ -1,0 +1,7 @@
+RJVector package status
+- Flask/Psycopg 3 source included
+- PostgreSQL/Neon DATABASE_URL configuration documented
+- SQL migration included
+- Android WebView wrapper source included
+- APK NOT compiled: requires the final live HTTPS deployment URL and Android build/signing environment
+- Do not commit .env or share Neon credentials
